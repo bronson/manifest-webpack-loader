@@ -8,7 +8,7 @@ This is handy when writing chrome extensions.  You may also be interested in the
 
 This script was originally written by [SO user108471](https://stackoverflow.com/questions/44232366/how-do-i-build-a-json-file-with-webpack).
 
-The following fields are copied from webpack.json to your manifest.json:
+The following fields are copied from your package.json to your manifest.json:
 
 * `name`
 * `description`
